@@ -1,0 +1,6 @@
+framework module ZcmLoginPod {
+  umbrella header "ZcmLoginPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

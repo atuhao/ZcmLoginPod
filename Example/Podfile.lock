@@ -1,0 +1,16 @@
+PODS:
+  - ZcmLoginPod (0.1.0)
+
+DEPENDENCIES:
+  - ZcmLoginPod (from `../`)
+
+EXTERNAL SOURCES:
+  ZcmLoginPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZcmLoginPod: fb4f31ea993cac72f278104360d7a21ce219e25f
+
+PODFILE CHECKSUM: bd148a639734c004548cf4612a6fe70764d1a569
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,22 @@
+{
+  "name": "ZcmLoginPod",
+  "version": "0.1.0",
+  "summary": "A short description of ZcmLoginPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/atuhao/ZcmLoginPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "atuhao": "zhangchangming@eptok.com"
+  },
+  "source": {
+    "git": "https://github.com/atuhao/ZcmLoginPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZcmLoginPod/Classes/**/*"
+}
